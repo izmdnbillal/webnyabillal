@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "billal izzamuddin malik"
+theme = "m10c"
+[params] 
+    author = "billal"
+    description = "www.gunadarma.ac.id"
+    
+
+[[params.social]]
+  name = "instagram"
+  url = "https://www.instagram.com/izmdnbillal/"
